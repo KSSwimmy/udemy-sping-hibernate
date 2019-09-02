@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/lambda_school_loaner_163/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1014728435.index
+1348589944.index
+513106662.index
+2072894472.index
+209184455.index
+1498113304.index
