@@ -6,7 +6,7 @@ public class Main {
 	
 	{
 		// create the object
-	
+		Coach theCoach = new BaseballCoach();
 		Coach theCoach = new TrackCoach();
 		
 		// use the object
